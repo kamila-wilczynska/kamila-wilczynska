@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*XR3rTO1O_RM69jFDcez7cw.gif)
+![Banner](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*XR3rTO1O_RM69jFDcez7cw.gif){width=200px height=100px}
 
 <h1 align="center">Hi 👋, I'm Kamila</h1>
 <h3 align="center">A passionate frontend developer</h3>
