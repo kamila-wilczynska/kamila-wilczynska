@@ -8,14 +8,14 @@
 
 - 🌱 I’m currently learning **Front-end web development**
 
-- 👨‍💻 All of my projects are available at [my porftolio](https://kamila-w-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at: [my porftolio](https://kamila-w-portfolio.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** 
 
 - 📫 How to reach me **kamila.wilczynska92@gmail.com**
-- 📫 Find me on Linkedin https://www.linkedin.com/in/kamila-wilczynska-7590141ab/
+- 📫 Find me on Linkedin: [my Linkedin profile](https://www.linkedin.com/in/kamila-wilczynska-7590141ab/)
 
-- 📄 Know about my experiences [here](https://github.com/kamila-wilczynska/Resume/blob/master/Kamila_Wilczynska_CV.pdf)
+- 📄 Know about my experiences: [my resume](https://github.com/kamila-wilczynska/Resume/blob/master/Kamila_Wilczynska_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
