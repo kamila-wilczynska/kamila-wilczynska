@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React** 
 
-- 📫 How to reach me **kamila.wilczynska92@gmail.com**
+- 📫 How to reach me: **kamila.wilczynska92@gmail.com**
 - 📫 Find me on Linkedin: [my Linkedin profile](https://www.linkedin.com/in/kamila-wilczynska-7590141ab/)
 
 - 📄 Know about my experiences: [my resume](https://github.com/kamila-wilczynska/Resume/blob/master/Kamila_Wilczynska_CV.pdf)
