@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front-end web development**
 
-- 👨‍💻 All of my projects are available at: [my porftolio](https://kamila-w-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at: [my portfolio](https://kamila-w-portfolio.netlify.app/)
 
 - 💬 Ask me about **React** 
 
